@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+    @apply font-sans text-primaryText bg-primary;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    @apply text-4xl lg:text-5xl font-semibold;
+  }
+  h2 {
+    @apply text-2xl lg:text-3xl font-semibold;
+  }
+
+  h3 {
+    @apply text-lg md:text-xl font-semibold;
+  }
+}
+
+#root {
+  min-height: 100vh;
+}
+
+
