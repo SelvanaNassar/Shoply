@@ -1,5 +1,5 @@
 export default async function CreateOrder (order){
-    const response = await fetch("http://192.168.1.104:3000/orders",
+    const response = await fetch("https://hutch-scary-peacock.abasthan.app/orders",
         {
             method: "POST",
             headers: {

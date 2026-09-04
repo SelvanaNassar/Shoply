@@ -37,9 +37,9 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 
 ## 🔗 Links
 
-🚀 [Live Demo]()
+🚀 [Live Demo](https://shoply-tawny.vercel.app/)
 
-💻 [Source Code]()
+💻 [Source Code](https://github.com/SelvanaNassar/Shoply)
 
 ---
 
@@ -59,15 +59,15 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Home.jpg" width="16%">
- <img src="./screenshots/Mobile view/Shop.jpg" width="16%">
- <img src="./screenshots/Mobile view/Categories.jpg" width="16%">
- <img src="./screenshots/Mobile view/Deals.jpg" width="16%">
- <img src="./screenshots/Mobile view/Checkout.jpg" width="16%">
- <img src="./screenshots/Mobile view/Product details.jpg" width="16%">
+ <img src="./screenshots/Mobile view/Home.png" width="16%">
+ <img src="./screenshots/Mobile view/Shop.png" width="16%">
+ <img src="./screenshots/Mobile view/Categories.png" width="16%">
+ <img src="./screenshots/Mobile view/Deals.png" width="16%">
+ <img src="./screenshots/Mobile view/Checkout.png" width="16%">
+ <img src="./screenshots/Mobile view/Product details.png" width="16%">
 </p>
 
-### 🔍 Cart & Favorites
+### Cart & Favorites
 
 #### 💻 Desktop view
 
@@ -82,10 +82,10 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 #### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Favorites - Products.jpg" width="24%">
- <img src="./screenshots/Mobile view/Cart - Products.jpg" width="24%">
- <img src="./screenshots/Mobile view/Favorites - Empty.jpg" width="24%">
- <img src="./screenshots/Mobile view/Cart - Empty.jpg" width="24%">
+ <img src="./screenshots/Mobile view/Favorites - Products.png" width="24%">
+ <img src="./screenshots/Mobile view/Cart - Products.png" width="24%">
+ <img src="./screenshots/Mobile view/Favorites - Empty.png" width="24%">
+ <img src="./screenshots/Mobile view/Cart - Empty.png" width="24%">
 </p>
 
 ---
@@ -133,6 +133,8 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 
 ## 📂 Project Structure
 
+```text
+
 │
 ├──  src/
 │  ├── components/          # Reusable React components
@@ -156,6 +158,7 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ├──  tailwind.config.js     # Tailwind CSS configuration
 │ 
 └──  README.md
+```
 
 ---
 
@@ -186,7 +189,7 @@ Authentication, real payment processing, and a production backend are outside th
 ## ⚙️ Installation
 
 1. Clone the repository
-git clone [REPOSITORY_LINK]()
+git clone [REPOSITORY_LINK](https://github.com/SelvanaNassar/Shoply)
 cd Shoply
 2. Install dependencies
 npm install
