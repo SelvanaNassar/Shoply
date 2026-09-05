@@ -48,12 +48,15 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Home.png" style="height: 170px; object-fit: contain;"">
- <img src="./screenshots/Desktop view/Shop.png" style="height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Categories.png" style="height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Deals.png" style="height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Checkout.png" style="height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Product details.png" style="width: 16%; height: 170px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Home.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Shop.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Categories.png" style="width: 30%; object-fit: contain;">
+</p>
+
+<p align="center">
+ <img src="./screenshots/Desktop view/Deals.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Checkout.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Product details.png" style="width: 30%; object-fit: contain;">
 </p>
 
 ### 📱 Mobile view
@@ -72,10 +75,10 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 #### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Favorites - Products.png" style="width: 24%; height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Cart - Products.png" style="width: 24%; height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Favorites - Empty.png" style="width: 24%; height: 170px; object-fit: contain;">
- <img src="./screenshots/Desktop view/Cart - Empty.png" style="width: 24%; height: 170px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Products.png" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Products.png" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Empty.png" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Empty.png" style="width: 24%; object-fit: contain;">
 </p>
 
 
