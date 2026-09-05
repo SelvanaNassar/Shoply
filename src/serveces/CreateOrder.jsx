@@ -1,5 +1,7 @@
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
+
 export default async function CreateOrder (order){
-    const response = await fetch("https://hutch-scary-peacock.abasthan.app/orders",
+    const response = await fetch(`${API_URL}/orders`,
         {
             method: "POST",
             headers: {

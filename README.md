@@ -1,6 +1,6 @@
 # 🛍️ Shoply - E-commerce Web App
 
-A modern and responsive E-commerce web application built with React, Vite, and Tailwind CSS.
+Shoply is a modern E-commerce web application built with React, Vite, and Tailwind CSS, featuring a responsive shopping experience and a mock backend API for order submission.
 
 ---
 
@@ -13,19 +13,17 @@ A modern and responsive E-commerce web application built with React, Vite, and T
 ---
 
 <p align="center">
-
-![React](https://img.shields.io/badge/React-19.2.8-61DAFB?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8.2.1-646CFF?logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.19-06B6D4?logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
-
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 </p>
 
 ---
 
 ## 📌 About the project
 
-Shoply is a modern E-commerce Frontend built with React, Vite, and Tailwind CSS. 
+Shoply is a modern E-commerce web application built with React, Vite, and Tailwind CSS. 
 The project was created to simulate a real-world online shopping experience while focusing on clean UI, responsive design, and reusable React components.
 
 The application allows users to browse products, explore categories, search and sort products, view detailed product information, manage favorites, and add products to a shopping cart. 
@@ -127,7 +125,8 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 - Vite — Development environment and build tool.
 
 ### Deployment
-- Vercel
+- Vercel — Frontend
+- Abasthan — JSON Server API
 
 ---
 
@@ -153,7 +152,7 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ├──  public/
 │  └── images/              # Static images
 │  
-├──  db.json                # Local order data
+├──  db.json                # Mock backend data
 │  
 ├──  tailwind.config.js     # Tailwind CSS configuration
 │ 
@@ -168,7 +167,7 @@ Shoply focuses on the Frontend experience of an E-commerce application.
 The current version includes product browsing, search and sorting, category navigation, deals, product details, favorites, shopping cart functionality, and order checkout flow.
 
 The project uses the DummyJSON API as a source of product and category data, while cart and favorites data are persisted locally using LocalStorage.
-Order data entered during checkout is sent to a JSON Server API and stored in a JSON file to simulate backend data handling.
+Order data entered during checkout is sent to a deployed JSON Server API and stored as mock backend data to simulate order submission and backend data handling.
 
 Authentication, real payment processing, and a production backend are outside the scope of the current version and may be introduced in future iterations.
 
@@ -189,7 +188,7 @@ Authentication, real payment processing, and a production backend are outside th
 ## ⚙️ Installation
 
 1. Clone the repository
-git clone [REPOSITORY_LINK](https://github.com/SelvanaNassar/Shoply)
+git clone https://github.com/SelvanaNassar/Shoply
 cd Shoply
 2. Install dependencies
 npm install
@@ -199,7 +198,7 @@ npm run server
 Open another terminal and run:
 npm run dev
 
-The application will then be available at the local development URL provided by Vite.
+For local development, the application uses http://localhost:3000 by default. The deployed version uses the hosted JSON Server API configured through the VITE_API_URL environment variable.
 
 ---
 
