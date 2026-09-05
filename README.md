@@ -13,10 +13,12 @@ Shoply is a modern E-commerce web application built with React, Vite, and Tailwi
 ---
 
 <p align="center">
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+
 </p>
 
 ---
@@ -46,23 +48,23 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Home.png" width="16%">
- <img src="./screenshots/Desktop view/Shop.png" width="16%">
- <img src="./screenshots/Desktop view/Categories.png" width="16%">
- <img src="./screenshots/Desktop view/Deals.png" width="16%">
- <img src="./screenshots/Desktop view/Checkout.png" width="16%">
- <img src="./screenshots/Desktop view/Product details.png" width="16%">
+ <img src="./screenshots/Desktop view/Home.png" style="height: 300px; object-fit: contain;"">
+ <img src="./screenshots/Desktop view/Shop.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Categories.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Deals.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Checkout.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Product details.png" style="height: 300px; object-fit: contain;">
 </p>
 
 ### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Home.png" width="16%">
- <img src="./screenshots/Mobile view/Shop.png" width="16%">
- <img src="./screenshots/Mobile view/Categories.png" width="16%">
- <img src="./screenshots/Mobile view/Deals.png" width="16%">
- <img src="./screenshots/Mobile view/Checkout.png" width="16%">
- <img src="./screenshots/Mobile view/Product details.png" width="16%">
+ <img src="./screenshots/Mobile view/Home.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Shop.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Categories.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Deals.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Checkout.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Product details.png" style="height: 300px; object-fit: contain;">
 </p>
 
 ### Cart & Favorites
@@ -70,20 +72,20 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 #### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Favorites - Products.png" width="24%">
- <img src="./screenshots/Desktop view/Cart - Products.png" width="24%">
- <img src="./screenshots/Desktop view/Favorites - Empty.png" width="24%">
- <img src="./screenshots/Desktop view/Cart - Empty.png" width="24%">
+ <img src="./screenshots/Desktop view/Favorites - Products.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Products.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Empty.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Empty.png" style="height: 300px; object-fit: contain;">
 </p>
 
 
 #### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Favorites - Products.png" width="24%">
- <img src="./screenshots/Mobile view/Cart - Products.png" width="24%">
- <img src="./screenshots/Mobile view/Favorites - Empty.png" width="24%">
- <img src="./screenshots/Mobile view/Cart - Empty.png" width="24%">
+ <img src="./screenshots/Mobile view/Favorites - Products.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Cart - Products.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Favorites - Empty.png" style="height: 300px; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Cart - Empty.png" style="height: 300px; object-fit: contain;">
 </p>
 
 ---
@@ -188,14 +190,14 @@ Authentication, real payment processing, and a production backend are outside th
 ## ⚙️ Installation
 
 1. Clone the repository
-git clone https://github.com/SelvanaNassar/Shoply
-cd Shoply
+- git clone https://github.com/SelvanaNassar/Shoply
+- cd Shoply
 2. Install dependencies
-npm install
+- npm install
 3. Start the JSON Server
-npm run server
+- npm run server
 4. Start the development server
-Open another terminal and run:
+- Open another terminal and run:
 npm run dev
 
 For local development, the application uses http://localhost:3000 by default. The deployed version uses the hosted JSON Server API configured through the VITE_API_URL environment variable.
