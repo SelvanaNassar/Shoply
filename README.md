@@ -54,8 +54,8 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 </p>
 
 <p align="center">
- <img src="./screenshots/Desktop view/Shop.png" style="width: 30%; object-fit: contain;">
  <img src="./screenshots/Desktop view/Deals.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Shop.png" style="width: 30%; object-fit: contain;">
  <img src="./screenshots/Desktop view/Checkout.png" style="width: 30%; object-fit: contain;">
 </p>
 
@@ -65,9 +65,9 @@ Shoply was developed as a practical project to strengthen my skills in React, st
  <img src="./screenshots/Mobile view/Home.png" style="width: 16%; object-fit: contain;">
  <img src="./screenshots/Mobile view/Shop.png" style="width: 16%; object-fit: contain;">
  <img src="./screenshots/Mobile view/Categories.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Deals.png" style="width: 16%; object-fit: contain;">
  <img src="./screenshots/Mobile view/Checkout.png" style="width: 16%; object-fit: contain;">
  <img src="./screenshots/Mobile view/Product details.png" style="width: 16%; object-fit: contain;">
+  <img src="./screenshots/Mobile view/Deals.png" style="width: 16%; object-fit: contain;">
 </p>
 
 ### Cart & Favorites
