@@ -48,26 +48,26 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Home.png" style="width: 36%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Categories.png" style="width: 36%; object-fit: contain;">
-  <img src="./screenshots/Desktop view/Product details.png" style="width: 36%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Home.png" style="height: 300; width: 32%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Categories.png" style="height: 300; width: 32%; object-fit: contain;">
+  <img src="./screenshots/Desktop view/Product details.png" style="height: 300; width: 32%; object-fit: contain;">
 </p>
 
 <p align="center">
- <img src="./screenshots/Desktop view/Deals.png" style="width: 36%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Shop.png" style="width: 36%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Checkout.png" style="width: 36%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Deals.png" style="height: 300; width: 32%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Shop.png" style="height: 300; width: 32%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Checkout.png" style="height: 300; width: 32%; object-fit: contain;">
 </p>
 
 ### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Home.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Shop.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Categories.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Checkout.png" style="width: 16%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Home.png" style="height: 500; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Shop.png" style="height: 500; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Categories.png" style="height: 500; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Checkout.png" style="height: 500; width: 30%; object-fit: contain;">
  <img src="./screenshots/Mobile view/Product details.png" style="height: 500; width: 30%; object-fit: contain;">
-  <img src="./screenshots/Mobile view/Deals.png" style="width: 16%; object-fit: contain;">
+  <img src="./screenshots/Mobile view/Deals.png" style="height: 500; width: 30%; object-fit: contain;">
 </p>
 
 ### Cart & Favorites
@@ -75,20 +75,20 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 #### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Favorites - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Cart - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Favorites - Empty.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Cart - Empty.png" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Products.png" style="height: 300; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Products.png" style="height: 300; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Empty.png" style="height: 300; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Empty.png" style="height: 300; width: 30%; object-fit: contain;">
 </p>
 
 
 #### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Favorites - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Cart - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Favorites - Empty.png" style="width: 24% object-fit: contain;">
- <img src="./screenshots/Mobile view/Cart - Empty.png" style="width: 24% object-fit: contain;">
+ <img src="./screenshots/Mobile view/Favorites - Products.png" style="height: 500; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Cart - Products.png" style="height: 500; width: 30%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Favorites - Empty.png" style="height: 500; width: 30% object-fit: contain;">
+ <img src="./screenshots/Mobile view/Cart - Empty.png" style="height: 500; width: 30% object-fit: contain;">
 </p>
 
 ---
