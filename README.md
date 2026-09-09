@@ -5,7 +5,7 @@ Shoply is a modern E-commerce web application built with React, Vite, and Tailwi
 ---
 
 <p align="center">
-  <img src="./screenshots/Desktop view/Home.png" width="100%" alt="Shoply E-commerce Web App">
+  <img src="./screenshots/Desktop view/Home.jpg" width="100%" alt="Shoply E-commerce Web App">
 </p>
 
 ⭐ Shoply is a modern E-commerce Frontend built to provide a smooth and intuitive shopping experience, with a clean interface, responsive design, and essential shopping features.
@@ -48,26 +48,26 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 ### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Home.png" style="width: 30%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Categories.png" style="width: 30%; object-fit: contain;">
-  <img src="./screenshots/Desktop view/Product details.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Home.jpg" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Categories.jpg" style="width: 30%; object-fit: contain;">
+  <img src="./screenshots/Desktop view/Product details.jpg" style="width: 30%; object-fit: contain;">
 </p>
 
 <p align="center">
- <img src="./screenshots/Desktop view/Deals.png" style="width: 30%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Shop.png" style="width: 30%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Checkout.png" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Deals.jpg" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Shop.jpg" style="width: 30%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Checkout.jpg" style="width: 30%; object-fit: contain;">
 </p>
 
 ### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Home.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Shop.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Categories.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Checkout.png" style="width: 16%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Product details.png" style="width: 16%; object-fit: contain;">
-  <img src="./screenshots/Mobile view/Deals.png" style="width: 16%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Home.jpg" style="width: 16%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Shop.jpg" style="width: 16%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Categories.jpg" style="width: 16%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Checkout.jpg" style="width: 16%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Product details.jpg" style="width: 16%; object-fit: contain;">
+  <img src="./screenshots/Mobile view/Deals.jpg" style="width: 16%; object-fit: contain;">
 </p>
 
 ### Cart & Favorites
@@ -75,20 +75,20 @@ Shoply was developed as a practical project to strengthen my skills in React, st
 #### 💻 Desktop view
 
 <p align="center">
- <img src="./screenshots/Desktop view/Favorites - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Cart - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Favorites - Empty.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Desktop view/Cart - Empty.png" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Products.jpg" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Products.jpg" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Favorites - Empty.jpg" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Desktop view/Cart - Empty.jpg" style="width: 24%; object-fit: contain;">
 </p>
 
 
 #### 📱 Mobile view
 
 <p align="center">
- <img src="./screenshots/Mobile view/Favorites - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Cart - Products.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Favorites - Empty.png" style="width: 24%; object-fit: contain;">
- <img src="./screenshots/Mobile view/Cart - Empty.png" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Favorites - Products.jpg" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Cart - Products.jpg" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Favorites - Empty.jpg" style="width: 24%; object-fit: contain;">
+ <img src="./screenshots/Mobile view/Cart - Empty.jpg" style="width: 24%; object-fit: contain;">
 </p>
 
 ---
